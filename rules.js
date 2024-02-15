@@ -1,20 +1,13 @@
-function changePageA() {
-    // You can replace 'newpage.html' with the desired URL
-    window.location.href = 'app.html';
+function cbd(){
+    window.location.href = 'cbd.html';
 }
-function changePageC() {
-    // You can replace 'newpage.html' with the desired URL
-    window.location.href = 'cource.html';
+function cbdr(){
+    window.location.href = 'cbdm.html';
 }
-function changePageD() {
-    // You can replace 'newpage.html' with the desired URL
-    window.location.href = 'doc.html';
+function cbdms(){
+    window.location.href = 'cbdm.html';
 }
-function changePageH() {
-    // You can replace 'newpage.html' with the desired URL
-    window.location.href = 'index.html';
-}
-function changePageP() {
-    // You can replace 'newpage.html' with the desired URL
-    window.location.href = 'prog.html';
+
+function cbdm(){
+    window.location.href = 'cbdm.html';
 }
